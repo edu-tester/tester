@@ -14,7 +14,7 @@ import java.util.concurrent.ConcurrentHashMap;
 @Service
 public class JogoService {
 
-    // Armazena o progresso dos jogadores, identificados por token único
+    // Armazena o progresso dos jogadores identificados por token único
     private final Map<String, Integer> progresso = new ConcurrentHashMap<>();
 
     // Define as fases do jogo

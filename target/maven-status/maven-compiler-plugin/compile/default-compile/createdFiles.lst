@@ -1,0 +1,5 @@
+com\example\tesouro\service\JogoService.class
+com\example\tesouro\controller\JogoController.class
+com\example\tesouro\service\JogoService$1.class
+com\example\tesouro\TesouroApplication.class
+com\example\tesouro\model\Fase.class
