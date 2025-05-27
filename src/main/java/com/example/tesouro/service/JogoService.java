@@ -30,7 +30,7 @@ public class JogoService {
                 """
                 👋 Bem-vindo(a) à Fase 1! Esta fase é um teste simples para aprender como interagir com a API. ✅ O que fazer: - Envie uma requisição **POST** para este mesmo endpoint. - O corpo da requisição deve conter um JSON com a chave `resposta`. 📝 Exemplo: { "resposta": "o que é a vida?" }""",
                 "42",
-                "Dica: Qual é a resposta para a vida, o universo e tudo mais? Caso tiver dúvida pergunte ao professor Leonardo Casillo"
+                "Dica: Qual é a resposta de tudo? Caso tiver dúvida busque resposta no guia do mochileiro das galáxias ou pergunte ao professor Leonardo Casillo"
         ));
 
         fases.put(2, new Fase(
